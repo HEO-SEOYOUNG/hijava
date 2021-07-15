@@ -13,4 +13,8 @@ public class Hijava {
 	public static void heogun929() {
 		// I'm heogun
 	}
+
+	public static void heogun9292() {
+		// I'm heogun 2
+	}
 }
