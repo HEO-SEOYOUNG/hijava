@@ -6,5 +6,8 @@ public class Hijava {
 		// TODO Auto-generated method stub
 
 	}
+	public static void log() {
+		
+	}
 
 }
