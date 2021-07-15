@@ -7,7 +7,10 @@ public class Hijava {
 
 	}
 	public static void log() {
-		
+		// I'm heogun
 	}
 
+	public static void heogun929() {
+		// I'm heogun
+	}
 }
