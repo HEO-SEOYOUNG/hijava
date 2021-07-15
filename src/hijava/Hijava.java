@@ -17,4 +17,8 @@ public class Hijava {
 	public static void heogun9292() {
 		// I'm heogun 2
 	}
+
+	public static void heoseoyoung() {
+		// SEOYOUNG HEO <heosy0802@gmail.com>
+	}
 }
